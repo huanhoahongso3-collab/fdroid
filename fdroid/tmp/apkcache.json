@@ -1,0 +1,42 @@
+{
+  "METADATA_VERSION": 20002,
+  "allow_disabled_algorithms": false,
+  "app-release-signed.apk": {
+    "hash": "ea1b3ecf6c5ea111a6269519f9337b7651fd65242c06818b852629d7d73cfcf4",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        32
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        28
+      ],
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "dhp.thl.tpl.ndv.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": {},
+    "packageName": "dhp.thl.tpl.ndv",
+    "versionCode": 5670,
+    "name": "ZSticker",
+    "versionName": "5.6.7",
+    "minSdkVersion": 27,
+    "targetSdkVersion": 35,
+    "sig": "576d02296b71cce41222a744255f93dd",
+    "signer": "de0786cb0a7cb8a996feb589de6cd562908ff6847ece9482d8a80a5dffb75d93",
+    "size": 9238602,
+    "apkName": "app-release-signed.apk",
+    "added": 1772544857.990623
+  }
+}
