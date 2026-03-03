@@ -1,0 +1,4 @@
+Change endpoint to use BRIA RMBG 1.4 instead to reduce the chance to serve wrong images due to too many users.
+Warning: All build having remove background function will fail. Update to this version to fix.
+Remove check for network status to determine the status to remove background (no internet)
+Hotfix: Add BRIA RMBG 1.4 to License

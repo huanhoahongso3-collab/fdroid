@@ -1,0 +1,23 @@
+Categories:
+  - Messaging
+License: GPL-3.0-or-later
+SourceCode: https://github.com/huanhoahongso3-collab/ZSticker
+
+AutoName: ZSticker
+
+RepoType: git
+Repo: https://github.com/huanhoahongso3-collab/ZSticker.git
+Binaries: https://github.com/huanhoahongso3-collab/ZSticker/releases/download/v%v/app-release-signed.apk
+
+Builds:
+  - versionName: '5.6.7'
+    versionCode: 5670
+    commit: v5.6.7
+    subdir: app
+    gradle:
+      - yes
+
+AutoUpdateMode: Version
+UpdateCheckMode: Tags
+CurrentVersion: '5.6.7'
+CurrentVersionCode: 5670

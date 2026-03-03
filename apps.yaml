@@ -1,0 +1,19 @@
+zsticker:
+  git: https://github.com/huanhoahongso3-collab/ZSticker
+  name: "ZSticker"
+  description: |
+    Allow user to share stickers to Zalo - a popular Vietnamese chatting app in Android.
+    <b>Features</b>
+
+    - Share intents (ACTION_SEND / ACTION_SEND_MULTIPLE) directly to Zalo
+    - Export stickers when needed
+    - Import single and multiple images both in the app and share intent
+    - New Material Design 3 from Google
+
+    I use the BRIA-RMBG-1.4 model at https://huggingface.co/spaces/briaai/BRIA-RMBG-1.4. Also, the URL I use: bria14proxy.vercel.app is just a proxy to connect Android with HuggingFace API and I don't collect any data or care about who you are through it. If you're not sure, here's the proxy source code: https://github.com/huanhoahongso3-collab/BRIA-RMBG-1.4-PROXY. Sorry because I don't have server to host the remove background model so I left it to other endpoint, but if you don't use that function it should be OK.
+
+  categories: 
+    - Messaging
+
+  anti_features:
+    - NonFreeNet
